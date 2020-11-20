@@ -1,0 +1,30 @@
+*{
+
+    background-color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.boton{
+
+    background-color: aqua;
+    color: red;
+
+}
+
+.texto{
+
+    background-color: aliceblue;
+    color: black;
+
+}
+
+.res{
+
+    background-color: greenyellow;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    color: red;
+
+}
